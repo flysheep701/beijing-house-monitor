@@ -1,0 +1,75 @@
+name: 每日房源数据采集
+
+on:
+  # 每天 UTC 01:00 运行 = 北京时间 09:00
+  schedule:
+    - cron: '0 1 * * *'
+  # 也支持手动触发
+  workflow_dispatch:
+
+# 设置权限允许推送到仓库和部署 Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整历史，以便保留 data_history
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: |
+          pip install -r requirements.txt
+
+      - name: 运行数据采集
+        run: |
+          python scraper.py
+        env:
+          # 如果需要，可以在 GitHub Secrets 中设置 cookies
+          LIANJIA_COOKIES: ${{ secrets.LIANJIA_COOKIES }}
+
+      - name: 生成 HTML 报告
+        run: |
+          python generate_html.py
+
+      - name: 提交数据更新
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add data_history/ index.html 北京购房监控_链家数据.html
+          # 只在有变更时提交
+          git diff --staged --quiet || git commit -m "📊 自动更新: $(date '+%Y-%m-%d') 房源数据"
+          git push
+
+      # 部署到 GitHub Pages
+      - name: 配置 GitHub Pages
+        uses: actions/configure-pages@v4
+
+      - name: 上传 Pages 产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      # 可选：推送到微信（如果配置了 webhook）
+      - name: 推送微信通知
+        if: env.WECHAT_WEBHOOK_URL != ''
+        run: |
+          python notify.py
+        env:
+          WECHAT_WEBHOOK_URL: ${{ secrets.WECHAT_WEBHOOK_URL }}
+        continue-on-error: true
