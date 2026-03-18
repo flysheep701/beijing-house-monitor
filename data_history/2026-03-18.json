@@ -1,265 +1,38 @@
 {
   "date": "2026-03-18",
-  "source": "链家、我爱我家",
-  "total_qualified": 16,
+  "source": "链家、安居客",
+  "collection_time": "2026-03-18 08:48:42",
+  "total_qualified": 0,
   "communities": {
     "利泽西园": {
-      "filter": "≥90㎡ | ≤550万 | 二到三居室",
-      "count": 8,
-      "listings": [
-        {
-          "id": "lzxy-001",
-          "community": "利泽西园",
-          "layout": "2室1厅",
-          "area": 98.80,
-          "direction": "西南",
-          "unit_price": 47065,
-          "total_price": 465,
-          "floor": "低楼层/24层",
-          "age": "约2002年（满五年）",
-          "register_date": "-",
-          "listing_date": "2025-11-17"
-        },
-        {
-          "id": "lzxy-002",
-          "community": "利泽西园",
-          "layout": "2室2厅",
-          "area": 99.01,
-          "direction": "东",
-          "unit_price": 48480,
-          "total_price": 480,
-          "floor": "中楼层/24层",
-          "age": "约2000年（满五年）",
-          "register_date": "-",
-          "listing_date": "2026-01-11"
-        },
-        {
-          "id": "lzxy-003",
-          "community": "利泽西园",
-          "layout": "3室2厅",
-          "area": 105.66,
-          "direction": "南北",
-          "unit_price": 49215,
-          "total_price": 520,
-          "floor": "低楼层/24层",
-          "age": "-",
-          "register_date": "-",
-          "listing_date": "-"
-        },
-        {
-          "id": "lzxy-004",
-          "community": "利泽西园",
-          "layout": "2室1厅",
-          "area": 99.05,
-          "direction": "东",
-          "unit_price": 53508,
-          "total_price": 530,
-          "floor": "中楼层/24层",
-          "age": "-",
-          "register_date": "-",
-          "listing_date": "2025-04-22"
-        },
-        {
-          "id": "lzxy-005",
-          "community": "利泽西园",
-          "layout": "2室2厅",
-          "area": 100.50,
-          "direction": "东南",
-          "unit_price": 52736,
-          "total_price": 530,
-          "floor": "高楼层/24层",
-          "age": "约2000年（满五年）",
-          "register_date": "-",
-          "listing_date": "2026-03-05"
-        },
-        {
-          "id": "lzxy-006",
-          "community": "利泽西园",
-          "layout": "3室2厅",
-          "area": 106.60,
-          "direction": "南北",
-          "unit_price": 50469,
-          "total_price": 538,
-          "floor": "低楼层/24层",
-          "age": "约2002年（不满二）",
-          "register_date": "-",
-          "listing_date": "2024-08-31"
-        },
-        {
-          "id": "lzxy-007",
-          "community": "利泽西园",
-          "layout": "2室2厅",
-          "area": 99.01,
-          "direction": "西",
-          "unit_price": 55550,
-          "total_price": 550,
-          "floor": "高楼层/24层",
-          "age": "-",
-          "register_date": "-",
-          "listing_date": "2025-05-07"
-        },
-        {
-          "id": "lzxy-008",
-          "community": "利泽西园",
-          "layout": "3室1厅",
-          "area": 108.67,
-          "direction": "南北",
-          "unit_price": 50612,
-          "total_price": 550,
-          "floor": "顶层/24层",
-          "age": "1999年（满两年）",
-          "register_date": "2022-06-08",
-          "listing_date": "2026-02-27"
-        }
-      ]
+      "filter": "≥90㎡ | ≤550万 | 2室1厅、2室2厅、3室1厅、3室2厅",
+      "count": 0,
+      "listings": []
     },
     "望馨花园": {
-      "filter": "≥80㎡ | ≤550万 | 二到三居室",
-      "count": 4,
-      "listings": [
-        {
-          "id": "wxxhy-001",
-          "community": "望馨花园",
-          "layout": "2室2厅",
-          "area": 88.97,
-          "direction": "东",
-          "unit_price": 46982,
-          "total_price": 418,
-          "floor": "底层/28层",
-          "age": "-",
-          "register_date": "-",
-          "listing_date": "2025-04-27"
-        },
-        {
-          "id": "wxxhy-002",
-          "community": "望馨花园",
-          "layout": "2室1厅",
-          "area": 93.74,
-          "direction": "东南",
-          "unit_price": 48005,
-          "total_price": 450,
-          "floor": "底层/28层",
-          "age": "满五年",
-          "register_date": "-",
-          "listing_date": "2024-11-20"
-        },
-        {
-          "id": "wxxhy-003",
-          "community": "望馨花园",
-          "layout": "2室1厅",
-          "area": 85.86,
-          "direction": "东南",
-          "unit_price": 55451,
-          "total_price": 476,
-          "floor": "高楼层/28层",
-          "age": "2001年（满两年）",
-          "register_date": "2023-01-06",
-          "listing_date": "2026-03-13"
-        },
-        {
-          "id": "wxxhy-004",
-          "community": "望馨花园",
-          "layout": "2室1厅",
-          "area": 94.41,
-          "direction": "东南",
-          "unit_price": 52855,
-          "total_price": 499,
-          "floor": "中楼层/28层",
-          "age": "满五年",
-          "register_date": "-",
-          "listing_date": "2025-08-10"
-        }
-      ]
+      "filter": "≥80㎡ | ≤550万 | 2室1厅、2室2厅、3室1厅、3室2厅",
+      "count": 0,
+      "listings": []
     },
     "澳洲康都": {
-      "filter": "≥80㎡ | ≤550万 | 二到三居室",
-      "count": 2,
-      "listings": [
-        {
-          "id": "azkd-001",
-          "community": "澳洲康都",
-          "layout": "2室1厅",
-          "area": 90.80,
-          "direction": "西南北",
-          "unit_price": 57269,
-          "total_price": 520,
-          "floor": "低楼层/22层",
-          "age": "-",
-          "register_date": "-",
-          "listing_date": "2025-11-28"
-        },
-        {
-          "id": "azkd-002",
-          "community": "澳洲康都",
-          "layout": "2室1厅",
-          "area": 97.82,
-          "direction": "西南北",
-          "unit_price": 55204,
-          "total_price": 540,
-          "floor": "高楼层/28层",
-          "age": "2006年（满两年）",
-          "register_date": "2023-05-19",
-          "listing_date": "2026-02-28"
-        }
-      ]
+      "filter": "≥80㎡ | ≤550万 | 2室1厅、2室2厅、3室1厅、3室2厅",
+      "count": 0,
+      "listings": []
     },
     "城建集团家属楼": {
-      "filter": "一到二居室（不限面积和总价）",
-      "count": 2,
-      "listings": [
-        {
-          "id": "cjjt-001",
-          "community": "城建集团家属楼",
-          "layout": "2室1厅",
-          "area": 58.13,
-          "direction": "南北",
-          "unit_price": 37503,
-          "total_price": 218,
-          "floor": "低楼层（电梯）",
-          "age": "约1990-2000年",
-          "register_date": "-",
-          "listing_date": "链家101129149747"
-        },
-        {
-          "id": "cjjt-002",
-          "community": "城建集团家属楼",
-          "layout": "2室1厅",
-          "area": 56.65,
-          "direction": "南",
-          "unit_price": 42365,
-          "total_price": 240,
-          "floor": "中楼层（电梯）",
-          "age": "约1990-2000年",
-          "register_date": "-",
-          "listing_date": "链家101126051590"
-        }
-      ]
+      "filter": "1室1厅、1室0厅、2室1厅、2室2厅（不限面积和总价）",
+      "count": 0,
+      "listings": []
     }
   },
-  "nearby_listings": [
-    {
-      "community": "望馨花园",
-      "layout": "2室2厅",
-      "area": 100.07,
-      "total_price": 595,
-      "floor": "中楼层/28层",
-      "note": "总价超出45万，可尝试议价"
-    },
-    {
-      "community": "望馨花园",
-      "layout": "2室2厅",
-      "area": 119.82,
-      "total_price": 598,
-      "floor": "顶层/16层",
-      "note": "面积大，总价超50万，南北通透"
-    },
-    {
-      "community": "澳洲康都",
-      "layout": "2室1厅",
-      "area": 86.80,
-      "total_price": 598,
-      "floor": "高楼层/28层",
-      "note": "面积符合但总价超48万"
-    }
-  ]
+  "nearby_listings": [],
+  "collection_note": "部分平台触发CAPTCHA反爬验证，通过备用数据源补充采集",
+  "changes": {
+    "new_count": 0,
+    "removed_count": 0,
+    "price_change_count": 0,
+    "new_listings": [],
+    "removed_listings": [],
+    "price_changes": []
+  }
 }
