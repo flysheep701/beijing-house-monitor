@@ -28,15 +28,19 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: 安装依赖
+      - name: 安装 Python 依赖
         run: |
           pip install -r requirements.txt
+
+      - name: 安装 Playwright 浏览器
+        run: |
+          playwright install chromium
+          playwright install-deps chromium
 
       - name: 运行数据采集
         run: |
           python scraper.py
         env:
-          # 如果需要，可以在 GitHub Secrets 中设置 cookies
           LIANJIA_COOKIES: ${{ secrets.LIANJIA_COOKIES }}
 
       - name: 生成 HTML 报告
