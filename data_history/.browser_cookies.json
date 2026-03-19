@@ -1,0 +1,322 @@
+[
+  {
+    "name": "select_city",
+    "value": "110000",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1774001186.742602,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "lianjia_ssid",
+    "value": "e6e01ae8-85a8-4bc4-982c-71b151365909",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1773916902.000212,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "lianjia_uuid",
+    "value": "517a955b-e8ea-40e0-a063-36199830a0a2",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1808474786.742733,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "HMACCOUNT_BFESS",
+    "value": "C35D858BBB4EA0F9",
+    "domain": ".hm.baidu.com",
+    "path": "/",
+    "expires": 1808474790.109747,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "Hm_lvt_46bf127ac9b856df503ec2dbf942b67e",
+    "value": "1773914790",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1805450790,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "Hm_lpvt_46bf127ac9b856df503ec2dbf942b67e",
+    "value": "1773914790",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "HMACCOUNT",
+    "value": "C35D858BBB4EA0F9",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sajssdk_2015_cross_new_user",
+    "value": "1",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1773935999,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sensorsdata2015jssdkcross",
+    "value": "%7B%22distinct_id%22%3A%2219d058f9e198f-0233820b72b0ef-26011851-2073600-19d058f9e1aecd%22%2C%22%24device_id%22%3A%2219d058f9e198f-0233820b72b0ef-26011851-2073600-19d058f9e1aecd%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_referrer%22%3A%22%22%2C%22%24latest_referrer_host%22%3A%22%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%7D%7D",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1808474791.452605,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_jzqa",
+    "value": "1.1382746702915501600.1773914795.1773914795.1773914795.1",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1808474794.85595,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_jzqc",
+    "value": "1",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_jzqckmp",
+    "value": "1",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1774001194,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ab_jid",
+    "value": "e7daf5238e7c3f8be10b500cd27cd049a5e2",
+    "domain": ".miao.baidu.com",
+    "path": "/",
+    "expires": 1808474796.241101,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ab_bid",
+    "value": "e7daf5238e7c3f8be10b500cd27cd049a5e2",
+    "domain": ".miao.baidu.com",
+    "path": "/",
+    "expires": 1808474796.241166,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ab_sr",
+    "value": "1.0.1_YjgzNjIwZWE0NWE4NjkwN2ZlYjRiMGVkNWJhZmM3YTAyY2MxYWU1ZDMxZjIwNjE4ODlmZDAxMzljNWFlZTgzNDM1ZjJlMjQ5ZDRhOTY5ZjU2OTgwZWVhOGE0NjYwZWIwYmU4ZGIyZWNkNjEwNTBlNTY2M2NiNjQwNDQ3OTExODRlYmRhNDJiOTcxZDg2YWZiYjEzNWExYWU2MjYyNmRjZQ==",
+    "domain": ".baidu.com",
+    "path": "/",
+    "expires": 1773921996.241213,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ab_jid_BFESS",
+    "value": "e7daf5238e7c3f8be10b500cd27cd049a5e2",
+    "domain": ".miao.baidu.com",
+    "path": "/",
+    "expires": 1808474796.241268,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "srcid",
+    "value": "eyJ0Ijoie1wiZGF0YVwiOlwiZTMxM2RmNmM2NWY5ZGU0MDFkYjE1NDVlMzMzY2VhZGFjMzY0Y2M5NDU0ZTAyZGJkZmU2NzFjYWI3ODkxMTg1N2FjNTIwMmQ4YmZkNGYyNDY0ODlmMGJmYTBjNTEyOTZhM2MyZWM4ZTRjMjBmMGYwZWZiNjVjNGM5ZTYzZGJmOTkyNWI1MTdhYjJhZTE2MTkwMzk3YjNhZTM3ZWIwZGVkNjlkOWI0OGEzYzI1MDFmNWRmOTY2ZGUxYzBlNDIzYjAyZDg1NDkzZDcwOTIyOTUyYTgxNWJjMDMxYzVmYmJmMDllMGFjMmIyNzYzYTM3YWM0ZDUzMWI0ZjViYmE3ODI3Y1wiLFwia2V5X2lkXCI6XCIxXCIsXCJzaWduXCI6XCJlY2JkZDgwZFwifSIsInIiOiJodHRwczovL2JqLmxpYW5qaWEuY29tLyIsIm9zIjoid2ViIiwidiI6IjAuMSJ9",
+    "domain": "bj.lianjia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_qzja",
+    "value": "1.232523694.1773914796309.1773914796309.1773914796309.1773914796309.1773914796309.0.0.0.1.1",
+    "domain": "bj.lianjia.com",
+    "path": "/",
+    "expires": 1808474800.629878,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_qzjc",
+    "value": "1",
+    "domain": "bj.lianjia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_qzjto",
+    "value": "1.1.0",
+    "domain": "bj.lianjia.com",
+    "path": "/",
+    "expires": 1773936004,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "v1",
+    "value": "AwDJ>rjL5h>]+rB:$RRG",
+    "domain": ".mediav.com",
+    "path": "/",
+    "expires": 1808474800.627898,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_qzjb",
+    "value": "1.1773914796309.1.0.0.0",
+    "domain": "bj.lianjia.com",
+    "path": "/",
+    "expires": 1773916600,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_jzqb",
+    "value": "1.1.10.1773914795.1",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1773916600,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.2.980710648.1773914801",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1808474800.96271,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.2.55013026.1773914801",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1774001200,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "crosSdkDT2019DeviceId",
+    "value": "-zvpqq-sbyxd0-ooyfpv0l2qd0sfd-p7xoolo4h",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1808474802.792368,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_QJN1VP0CMS",
+    "value": "GS2.2.s1773914804$o1$g0$t1773914804$j60$l0$h0",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1808474804.011411,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_KJTRWRHDL1",
+    "value": "GS2.2.s1773914804$o1$g0$t1773914804$j60$l0$h0",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1808474804.062512,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "captcha_v4_user",
+    "value": "17950dc14da14ff8a9ab7dfe4ba5b28e",
+    "domain": "gcaptcha4.geetest.com",
+    "path": "/",
+    "expires": 1805450804.303893,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lianjia_ssid",
+    "value": "958db914-912c-4fd8-a7f4-904594347181",
+    "domain": ".ke.com",
+    "path": "/",
+    "expires": 1773916936.259367,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "lianjia_uuid",
+    "value": "73980a84-6411-4332-adb4-7ffef3f6f8e1",
+    "domain": ".ke.com",
+    "path": "/",
+    "expires": 1808474879.412018,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "crosSdkDT2019DeviceId",
+    "value": "-vi0pt-sbyxd0-aho5y9nzvb46htx-zj8j36qjv",
+    "domain": ".ke.com",
+    "path": "/",
+    "expires": 1808474881.700569,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
