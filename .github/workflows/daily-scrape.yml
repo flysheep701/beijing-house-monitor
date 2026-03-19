@@ -32,8 +32,12 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: 安装 Playwright 浏览器
+      - name: 安装 Chrome 浏览器和 Playwright 依赖
         run: |
+          # 安装系统 Chrome（TLS 指纹与真实 Chrome 一致，不用 Chromium）
+          playwright install chrome
+          playwright install-deps chrome
+          # 同时安装 Chromium 作为备用
           playwright install chromium
           playwright install-deps chromium
 
