@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-21",
+  "source": "采集失败",
+  "collection_time": "2026-03-21 04:59:45",
+  "total_qualified": 0,
+  "communities": {
+    "利泽西园": {
+      "filter": "≥90㎡ | ≤550万 | 2室1厅、2室2厅、3室1厅、3室2厅",
+      "count": 0,
+      "listings": []
+    },
+    "望馨花园": {
+      "filter": "≥80㎡ | ≤550万 | 2室1厅、2室2厅、3室1厅、3室2厅",
+      "count": 0,
+      "listings": []
+    },
+    "澳洲康都": {
+      "filter": "≥80㎡ | ≤550万 | 2室1厅、2室2厅、3室1厅、3室2厅",
+      "count": 0,
+      "listings": []
+    },
+    "城建集团家属楼": {
+      "filter": "1室1厅、1室0厅、2室1厅、2室2厅（不限面积和总价）",
+      "count": 0,
+      "listings": []
+    }
+  },
+  "nearby_listings": [],
+  "collection_note": "今日采集失败，昨日也无数据",
+  "changes": {
+    "new_count": 0,
+    "removed_count": 0,
+    "price_change_count": 0,
+    "new_listings": [],
+    "removed_listings": [],
+    "price_changes": []
+  }
+}
