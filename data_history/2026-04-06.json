@@ -1,0 +1,391 @@
+{
+  "date": "2026-04-06",
+  "source": "采集失败",
+  "collection_time": "2026-04-06 07:09:37",
+  "total_qualified": 9,
+  "communities": {
+    "利泽西园": {
+      "filter": "≥90㎡ | ≤550万 | 2室1厅、2室2厅、3室1厅、3室2厅",
+      "count": 4,
+      "listings": [
+        {
+          "id": "lj-101134689197",
+          "community": "利泽西园",
+          "layout": "2室2厅",
+          "area": 100.5,
+          "direction": "东南",
+          "unit_price": 52737,
+          "total_price": 530,
+          "floor": "利泽西园    -  望京",
+          "age": "-",
+          "register_date": "-",
+          "listing_date": "-"
+        },
+        {
+          "id": "lj-101134996942",
+          "community": "利泽西园",
+          "layout": "2室1厅",
+          "area": 98.8,
+          "direction": "西南",
+          "unit_price": 47065,
+          "total_price": 465,
+          "floor": "利泽西园    -  望京",
+          "age": "-",
+          "register_date": "-",
+          "listing_date": "-"
+        },
+        {
+          "id": "lj-101130238303",
+          "community": "利泽西园",
+          "layout": "2室1厅",
+          "area": 99.05,
+          "direction": "东",
+          "unit_price": 53509,
+          "total_price": 530,
+          "floor": "利泽西园    -  望京",
+          "age": "-",
+          "register_date": "-",
+          "listing_date": "-"
+        },
+        {
+          "id": "lj-101135825576",
+          "community": "利泽西园",
+          "layout": "3室1厅",
+          "area": 108.67,
+          "direction": "南 北",
+          "unit_price": 50612,
+          "total_price": 550,
+          "floor": "利泽西园    -  望京",
+          "age": "-",
+          "register_date": "-",
+          "listing_date": "-"
+        }
+      ]
+    },
+    "望馨花园": {
+      "filter": "≥80㎡ | ≤550万 | 2室1厅、2室2厅、3室1厅、3室2厅",
+      "count": 2,
+      "listings": [
+        {
+          "id": "lj-101134478624",
+          "community": "望馨花园",
+          "layout": "2室1厅",
+          "area": 93.74,
+          "direction": "东南",
+          "unit_price": 48006,
+          "total_price": 450,
+          "floor": "望馨花园    -  望京",
+          "age": "-",
+          "register_date": "-",
+          "listing_date": "-"
+        },
+        {
+          "id": "lj-101136221945",
+          "community": "望馨花园",
+          "layout": "2室1厅",
+          "area": 94.41,
+          "direction": "东南",
+          "unit_price": 52855,
+          "total_price": 499,
+          "floor": "望馨花园    -  望京",
+          "age": "-",
+          "register_date": "-",
+          "listing_date": "-"
+        }
+      ]
+    },
+    "澳洲康都": {
+      "filter": "≥80㎡ | ≤550万 | 2室1厅、2室2厅、3室1厅、3室2厅",
+      "count": 1,
+      "listings": [
+        {
+          "id": "lj-101134109003",
+          "community": "澳洲康都",
+          "layout": "2室2厅",
+          "area": 90.8,
+          "direction": "西北",
+          "unit_price": 57269,
+          "total_price": 520,
+          "floor": "澳洲康都    -  望京",
+          "age": "-",
+          "register_date": "-",
+          "listing_date": "-"
+        }
+      ]
+    },
+    "城建集团家属楼": {
+      "filter": "1室1厅、1室0厅、2室1厅、2室2厅（不限面积和总价）",
+      "count": 2,
+      "listings": [
+        {
+          "id": "lj-101129755021",
+          "community": "城建集团家属楼",
+          "layout": "2室1厅",
+          "area": 58.13,
+          "direction": "南 北",
+          "unit_price": 37503,
+          "total_price": 218,
+          "floor": "城建集团家属楼    -  立水桥",
+          "age": "-",
+          "register_date": "-",
+          "listing_date": "-"
+        },
+        {
+          "id": "lj-101134357681",
+          "community": "城建集团家属楼",
+          "layout": "2室1厅",
+          "area": 58.79,
+          "direction": "东 西",
+          "unit_price": 74843,
+          "total_price": 440,
+          "floor": "甘水桥    -  和平里",
+          "age": "-",
+          "register_date": "-",
+          "listing_date": "-"
+        }
+      ]
+    }
+  },
+  "nearby_listings": [
+    {
+      "community": "利泽西园",
+      "layout": "2室2厅",
+      "area": 98.65,
+      "direction": "东",
+      "unit_price": 60720,
+      "total_price": 599,
+      "floor": "利泽西园    -  望京",
+      "listing_date": "-",
+      "note": "总价超出49万"
+    },
+    {
+      "community": "利泽西园",
+      "layout": "2室1厅",
+      "area": 99.5,
+      "direction": "西南",
+      "unit_price": 60101,
+      "total_price": 598,
+      "floor": "利泽西园    -  望京",
+      "listing_date": "-",
+      "note": "总价超出48万"
+    },
+    {
+      "community": "利泽西园",
+      "layout": "3室2厅",
+      "area": 107.35,
+      "direction": "南 北",
+      "unit_price": 55799,
+      "total_price": 599,
+      "floor": "利泽西园    -  望京",
+      "listing_date": "-",
+      "note": "总价超出49万"
+    },
+    {
+      "community": "利泽西园",
+      "layout": "2室1厅",
+      "area": 103.22,
+      "direction": "南",
+      "unit_price": 56191,
+      "total_price": 580,
+      "floor": "利泽西园    -  望京",
+      "listing_date": "-",
+      "note": "总价超出30万"
+    },
+    {
+      "community": "利泽西园",
+      "layout": "3室2厅",
+      "area": 108.1,
+      "direction": "南 北",
+      "unit_price": 56430,
+      "total_price": 610,
+      "floor": "利泽西园    -  望京",
+      "listing_date": "-",
+      "note": "总价超出60万"
+    },
+    {
+      "community": "望馨花园",
+      "layout": "2室1厅",
+      "area": 100.07,
+      "direction": "西北",
+      "unit_price": 59459,
+      "total_price": 595,
+      "floor": "望馨花园    -  望京",
+      "listing_date": "-",
+      "note": "总价超出45万"
+    },
+    {
+      "community": "望馨花园",
+      "layout": "2室1厅",
+      "area": 95.93,
+      "direction": "西",
+      "unit_price": 60670,
+      "total_price": 582,
+      "floor": "望馨花园    -  望京",
+      "listing_date": "-",
+      "note": "总价超出32万"
+    },
+    {
+      "community": "望馨花园",
+      "layout": "2室1厅",
+      "area": 98.72,
+      "direction": "东 南",
+      "unit_price": 62804,
+      "total_price": 620,
+      "floor": "望馨花园    -  望京",
+      "listing_date": "-",
+      "note": "总价超出70万"
+    },
+    {
+      "community": "望馨花园",
+      "layout": "2室1厅",
+      "area": 97.27,
+      "direction": "西南",
+      "unit_price": 66825,
+      "total_price": 650,
+      "floor": "望馨花园    -  望京",
+      "listing_date": "-",
+      "note": "总价超出100万"
+    },
+    {
+      "community": "望馨花园",
+      "layout": "2室2厅",
+      "area": 96.06,
+      "direction": "东南",
+      "unit_price": 62357,
+      "total_price": 599,
+      "floor": "望馨花园    -  望京",
+      "listing_date": "-",
+      "note": "总价超出49万"
+    },
+    {
+      "community": "望馨花园",
+      "layout": "2室1厅",
+      "area": 89.04,
+      "direction": "西北",
+      "unit_price": 67274,
+      "total_price": 599,
+      "floor": "望馨花园    -  望京",
+      "listing_date": "-",
+      "note": "总价超出49万"
+    },
+    {
+      "community": "澳洲康都",
+      "layout": "2室2厅",
+      "area": 72.69,
+      "direction": "北",
+      "unit_price": 75664,
+      "total_price": 550,
+      "floor": "澳洲康都    -  望京",
+      "listing_date": "-",
+      "note": "面积不足80㎡"
+    },
+    {
+      "community": "澳洲康都",
+      "layout": "2室1厅",
+      "area": 94.53,
+      "direction": "西北",
+      "unit_price": 65377,
+      "total_price": 618,
+      "floor": "澳洲康都    -  望京",
+      "listing_date": "-",
+      "note": "总价超出68万"
+    },
+    {
+      "community": "澳洲康都",
+      "layout": "2室1厅",
+      "area": 88.23,
+      "direction": "西北",
+      "unit_price": 64604,
+      "total_price": 570,
+      "floor": "澳洲康都    -  望京",
+      "listing_date": "-",
+      "note": "总价超出20万"
+    },
+    {
+      "community": "澳洲康都",
+      "layout": "2室1厅",
+      "area": 76.95,
+      "direction": "西",
+      "unit_price": 76544,
+      "total_price": 589,
+      "floor": "澳洲康都    -  望京",
+      "listing_date": "-",
+      "note": "总价超出39万，面积不足80㎡"
+    },
+    {
+      "community": "澳洲康都",
+      "layout": "2室1厅",
+      "area": 90.67,
+      "direction": "东 西",
+      "unit_price": 69263,
+      "total_price": 628,
+      "floor": "澳洲康都    -  望京",
+      "listing_date": "-",
+      "note": "总价超出78万"
+    },
+    {
+      "community": "澳洲康都",
+      "layout": "2室2厅",
+      "area": 97.82,
+      "direction": "南 西 北",
+      "unit_price": 60315,
+      "total_price": 590,
+      "floor": "澳洲康都    -  望京",
+      "listing_date": "-",
+      "note": "总价超出40万"
+    },
+    {
+      "community": "澳洲康都",
+      "layout": "2室1厅",
+      "area": 97.82,
+      "direction": "南 西 西北",
+      "unit_price": 65325,
+      "total_price": 639,
+      "floor": "澳洲康都    -  望京",
+      "listing_date": "-",
+      "note": "总价超出89万"
+    },
+    {
+      "community": "澳洲康都",
+      "layout": "2室1厅",
+      "area": 90.8,
+      "direction": "西北",
+      "unit_price": 62225,
+      "total_price": 565,
+      "floor": "澳洲康都    -  望京",
+      "listing_date": "-",
+      "note": "总价超出15万"
+    },
+    {
+      "community": "澳洲康都",
+      "layout": "2室1厅",
+      "area": 82.9,
+      "direction": "南 西南 西",
+      "unit_price": 74789,
+      "total_price": 620,
+      "floor": "澳洲康都    -  望京",
+      "listing_date": "-",
+      "note": "总价超出70万"
+    },
+    {
+      "community": "澳洲康都",
+      "layout": "2室2厅",
+      "area": 86.09,
+      "direction": "东南 南",
+      "unit_price": 69579,
+      "total_price": 599,
+      "floor": "澳洲康都    -  望京",
+      "listing_date": "-",
+      "note": "总价超出49万"
+    }
+  ],
+  "collection_note": "今日采集失败，沿用昨日数据",
+  "changes": {
+    "new_count": 0,
+    "removed_count": 0,
+    "price_change_count": 0,
+    "new_listings": [],
+    "removed_listings": [],
+    "price_changes": []
+  }
+}
