@@ -24,7 +24,7 @@
     "value": "1773914790",
     "domain": ".lianjia.com",
     "path": "/",
-    "expires": 1807078206,
+    "expires": 1807164986,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
@@ -140,31 +140,11 @@
     "sameSite": "Lax"
   },
   {
-    "name": "select_city",
-    "value": "110000",
-    "domain": ".lianjia.com",
-    "path": "/",
-    "expires": 1775545779.63616,
-    "httpOnly": false,
-    "secure": false,
-    "sameSite": "Lax"
-  },
-  {
     "name": "_jzqa",
     "value": "1.1382746702915501600.1773914795.1775369128.1775459387.19",
     "domain": ".lianjia.com",
     "path": "/",
     "expires": 1810019387.282152,
-    "httpOnly": false,
-    "secure": false,
-    "sameSite": "Lax"
-  },
-  {
-    "name": "_jzqckmp",
-    "value": "1",
-    "domain": ".lianjia.com",
-    "path": "/",
-    "expires": 1775545787,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
@@ -210,16 +190,6 @@
     "sameSite": "None"
   },
   {
-    "name": "_gid",
-    "value": "GA1.2.392009849.1775459395",
-    "domain": ".lianjia.com",
-    "path": "/",
-    "expires": 1775545794,
-    "httpOnly": false,
-    "secure": false,
-    "sameSite": "Lax"
-  },
-  {
     "name": "_ga_QJN1VP0CMS",
     "value": "GS2.2.s1775459394$o19$g0$t1775459394$j60$l0$h0",
     "domain": ".lianjia.com",
@@ -240,18 +210,28 @@
     "sameSite": "Lax"
   },
   {
-    "name": "lianjia_ssid",
-    "value": "e6e175cf-e057-408d-a909-13a2adf88236",
+    "name": "select_city",
+    "value": "110000",
     "domain": ".lianjia.com",
     "path": "/",
-    "expires": 1775544174.06797,
+    "expires": 1775715144.47464,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "lianjia_ssid",
+    "value": "59c207db-1746-42b0-a4fc-1b1636f55cd7",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1775630962.941826,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
   },
   {
     "name": "Hm_lpvt_46bf127ac9b856df503ec2dbf942b67e",
-    "value": "1775542207",
+    "value": "1775628987",
     "domain": ".lianjia.com",
     "path": "/",
     "expires": -1,
@@ -261,10 +241,10 @@
   },
   {
     "name": "lianjia_ssid",
-    "value": "70935cb6-37cf-436e-babe-9558c7ec6118",
+    "value": "3970c77b-7713-40fb-b2b3-659d8838f3f6",
     "domain": ".ke.com",
     "path": "/",
-    "expires": 1775544187.865335,
+    "expires": 1775630997.984607,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
