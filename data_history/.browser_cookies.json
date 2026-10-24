@@ -160,16 +160,6 @@
     "sameSite": "Lax"
   },
   {
-    "name": "lianjia_ssid",
-    "value": "e3beae5a-5b7a-427f-8595-2551f3b4a9ac",
-    "domain": ".lianjia.com",
-    "path": "/",
-    "expires": 1792735751.411125,
-    "httpOnly": false,
-    "secure": false,
-    "sameSite": "Lax"
-  },
-  {
     "name": "_jzqa",
     "value": "1.1382746702915501600.1773914795.1792647341.1792733624.208",
     "domain": ".lianjia.com",
@@ -200,16 +190,6 @@
     "sameSite": "Lax"
   },
   {
-    "name": "_qzjto",
-    "value": "1.1.0",
-    "domain": "bj.lianjia.com",
-    "path": "/",
-    "expires": 1792771201,
-    "httpOnly": false,
-    "secure": false,
-    "sameSite": "Lax"
-  },
-  {
     "name": "v1",
     "value": "AwDJ>rjL5h>`Q1cZ$w7w",
     "domain": ".mediav.com",
@@ -220,41 +200,11 @@
     "sameSite": "None"
   },
   {
-    "name": "_qzjb",
-    "value": "1.1792733624565.1.0.0.0",
-    "domain": "bj.lianjia.com",
-    "path": "/",
-    "expires": 1792735425,
-    "httpOnly": false,
-    "secure": false,
-    "sameSite": "Lax"
-  },
-  {
-    "name": "_jzqb",
-    "value": "1.1.10.1792733624.1",
-    "domain": ".lianjia.com",
-    "path": "/",
-    "expires": 1792735425,
-    "httpOnly": false,
-    "secure": false,
-    "sameSite": "Lax"
-  },
-  {
     "name": "ab_bid",
     "value": "c184d12650955217c2158eeb2910031d4bb5",
     "domain": ".miao.baidu.com",
     "path": "/",
     "expires": 1827293629.574291,
-    "httpOnly": true,
-    "secure": true,
-    "sameSite": "None"
-  },
-  {
-    "name": "ab_sr",
-    "value": "1.0.1_ZGMyZWFkZDQ1MzIyNmM2MDMzMzQ2NGU2Zjc0MmMxZGNmNzI1Y2I1YWQxN2ZiOTdhMTJmN2I2ODcyNWIzYTUwNGI2NzBjMTFhYzIzMzExMmZmNGY5ZjgyMmJkMWFlMjkxZWNlNzEzZWVlZWFkNzc1NzFmNzE4ZTZhZmEwZTdiYTllNzJlNzEyNWQ1M2Q3NjdmZDA3ZjUwMTk0ZDlkOWQzZg==",
-    "domain": ".baidu.com",
-    "path": "/",
-    "expires": 1792740829.57433,
     "httpOnly": true,
     "secure": true,
     "sameSite": "None"
@@ -270,11 +220,41 @@
     "sameSite": "Lax"
   },
   {
+    "name": "select_city",
+    "value": "110000",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1792905151.231883,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
     "name": "lianjia_ssid",
-    "value": "ee985ec9-3e2b-4d01-8e8b-a51fa28a9795",
+    "value": "a61438b2-157e-415a-9457-49bdf7432b21",
+    "domain": ".lianjia.com",
+    "path": "/",
+    "expires": 1792821492.709404,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "select_city",
+    "value": "110000",
     "domain": ".ke.com",
     "path": "/",
-    "expires": 1792735777.093805,
+    "expires": 1792905383.217691,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "lianjia_ssid",
+    "value": "3e462e82-b6ac-4487-84f5-b58f31801a13",
+    "domain": ".ke.com",
+    "path": "/",
+    "expires": 1792821661.045932,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
